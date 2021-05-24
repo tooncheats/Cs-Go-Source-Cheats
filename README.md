@@ -17,3 +17,4 @@ A few CS:GO hacks made with the classic "write memory" logic. Most of its featur
 
 Download repository files Run pip intall -r requirements.txt* Run python build.py Follow starting instructions
 Founder barbarbar338
+Founder Link : https://github.com/barbarbar338/hammer-csgo-hack
