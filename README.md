@@ -16,3 +16,4 @@ A few CS:GO hacks made with the classic "write memory" logic. Most of its featur
 🧨 Build your own instance I recommend you to use my builds in the Releases section, but you can also create your own ".exe" file by following the steps below.
 
 Download repository files Run pip intall -r requirements.txt* Run python build.py Follow starting instructions
+Founder barbarbar338
